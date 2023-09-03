@@ -1,22 +1,22 @@
 # [プログラミング言語大全](https://www.amazon.co.jp/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9E%E5%A4%A7%E5%85%A8-%E3%82%AF%E3%82%B8%E3%83%A9%E9%A3%9B%E8%A1%8C%E6%9C%BA/dp/4297113473/ref=sr_1_1?adgrpid=128688934989&hvadid=667844844885&hvdev=c&hvlocphy=1009277&hvnetw=g&hvqmt=e&hvrand=14488793301723035115&hvtargid=kwd-903474869661&hydadcr=4073_13351909&jp-ad-ap=0&keywords=%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9E%E5%A4%A7%E5%85%A8&qid=1693712090&s=books&sr=1-1)
 
 ##　プログラミング言語
-- C
-- C#
-- C++
-- Java
-- Python
-- Rust
-- PHP
-- Ruby
-- JavaScript
-- HTML/CSS
-- Swift
-- Go
-- BASIC
+
+- 代表的なプログラミング言語
+  - **C#**
+  - **C++**  
+  - **Java**
+  - **JavaScript**
+  - **Python**
+  - **Rust**
+  - **PHP**
+  - **Ruby**
+  - **Swift**
+  - **SQL**
+  - **Go**
 
   - その他の言語たち
--Perl,Node.js,TypeScript,CoffeeScript,Dart,WebAssembly,Kotlin,Scala,Groovy,Processing,Objective-C,F#,Visual Basic,VBA,Object Pascal/Delphi,AWK,sed,PowerShell,Bash/Shell Script,Haskell,OCaml,Erlang,Elixir,Common Lisp,Scheme,Prolog,Scratch,Smalltalk,COBOL,なでしこ,アセンブリ,HSP,R,Julia,ActionScript,Haxe,Brainfuck,Whitespace...
+-HTML/CSS,C,BASIC,Perl,Node.js,TypeScript,CoffeeScript,Dart,WebAssembly,Kotlin,Scala,Groovy,Processing,Objective-C,F#,Visual Basic,VBA,Object Pascal/Delphi,AWK,sed,PowerShell,Bash/Shell Script,Haskell,OCaml,Erlang,Elixir,Common Lisp,Scheme,Prolog,Scratch,Smalltalk,COBOL,なでしこ,アセンブリ,HSP,R,Julia,ActionScript,Haxe,Brainfuck,Whitespace...
 
 ##　この本の良い点
 - 解説
